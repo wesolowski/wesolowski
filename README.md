@@ -9,16 +9,24 @@ My name is Rafał Wesołowski, I'm a sofware developer at valantic CEC Deutschla
 ---
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+
+- [wesolowski/symfony-infection](https://github.com/wesolowski/symfony-infection) -  (1 week ago)
+- [wesolowski/symfony-refactoring-workshop](https://github.com/wesolowski/symfony-refactoring-workshop) -  (1 week ago)
+- [Vokanesia/any-language](https://github.com/Vokanesia/any-language) - Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate. (1 month ago)
+- [GameFixxer/cms_staging](https://github.com/GameFixxer/cms_staging) - Staging area for cms learning (1 month ago)
+- [kokonior/PHP-Projects](https://github.com/kokonior/PHP-Projects) - Feel free to create new file, don&#39;t hesitate to pull your code, the most important thing is that the file name here must match your nickname so that file does not conflict with other people. (1 month ago)
+- [wesolowski/mvc](https://github.com/wesolowski/mvc) - Project for learning MVC&#39;s at Nexus United (1 month ago)
+- [nexusunited/bitbucket-pipline-php](https://github.com/nexusunited/bitbucket-pipline-php) -  (4 months ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (4 months ago)
+- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (4 months ago)
+- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (4 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+
+- [nexusunited/symfony-tdd-example](https://github.com/nexusunited/symfony-tdd-example) ([1.6](https://github.com/nexusunited/symfony-tdd-example/releases/tag/1.6), 7 months ago) - 
+- [nexusunited/phpunit-simple-example](https://github.com/nexusunited/phpunit-simple-example) ([1.1](https://github.com/nexusunited/phpunit-simple-example/releases/tag/1.1), 9 months ago) - 
 
 ---
 
