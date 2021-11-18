@@ -49,5 +49,5 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 #### 📫 How to reach me
 
 - Twitter: [@WesolowskiRafal](https://twitter.com/WesolowskiRafal)
-- Email: [info+github@styleax.d](mailto://info+github@styleax.de)
+- Email: [info+github@styleax.de](mailto://info+github@styleax.de)
 - Youtube:  [RafalWesolowskiNinja](https://www.youtube.com/c/RafalWesolowskiNinja)
