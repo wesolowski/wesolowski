@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Rafał Wesołowski, I'm a sofware developer at valantic CEC Deutschland GmbH and TDD / Testing enthusiast.
+My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutschland GmbH and TDD / Testing enthusiast.
 
 #### 📈 My GitHub Statistics
 
