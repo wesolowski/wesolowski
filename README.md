@@ -2,21 +2,6 @@
 
 My name is Rafał Wesołowski, I'm a sofware developer at valantic CEC Deutschland GmbH and TDD / Testing enthusiast.
 
-<!--
-**wesolowski/wesolowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### 📈 My GitHub Statistics
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wesolowski&show_icons=true&count_private=true&hide_title=true)
@@ -37,9 +22,15 @@ Here are some ideas to get you started:
 
 ---
 
-#### ⚡ Talks
+#### ⚡ My Talks & Workshops
 
+- [Infection - Mutation Testing](https://nevercodealone.de/de/nca-conference-duisburg) - NCA Conference Duisburg (17.11.2021)
 - 
+- [Infection - Mutation Testing](https://nevercodealone.de/de/fullstack-php-ncaevent) - Fullstack PHP #NCAEvent (18.08.2021)
+- [Technische Schulden oder ein Haufen Legacy Code?](https://www.meetup.com/de-DE/meetup-group-PNulFhzz/events/270863661/) - Never Code Alone (03.06.2020)
+- 
+- [Workshop: TDD mit Symfony4](https://programm.froscon.de/2018/events/2173.html) - FrosCon (25.08.2018)
+- [Symfony Live Coding Session](https://www.meetup.com/de-DE/meetup-group-PNulFhzz/events/250521516/) - Never Code Alone (29.05.2018)
 - [Morgen ist gestern schon heute! Die Kunst der langfristigen Projektbetreuung.](https://www.meetup.com/de-DE/phpugms/events/vqvhmlywcbwb/) - PHP-Usergroup Münster (17.01.2017)
 - [Clean Code](http://webworker-nrw.de/1606-juni-2016/index.html) - Webworker-NRW (09.06.2016)
 - [Clean Code](https://www.meetup.com/de-DE/Web-Engineering-Duesseldorf/events/229986529/) - Web-Engineering-Duesseldorf (21.04.2016)
