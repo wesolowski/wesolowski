@@ -10,16 +10,16 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [wesolowski/symfony-infection](https://github.com/wesolowski/symfony-infection) -  (3 weeks ago)
-- [wesolowski/symfony-refactoring-workshop](https://github.com/wesolowski/symfony-refactoring-workshop) -  (3 weeks ago)
+- [wesolowski/symfony-infection](https://github.com/wesolowski/symfony-infection) -  (4 weeks ago)
+- [wesolowski/symfony-refactoring-workshop](https://github.com/wesolowski/symfony-refactoring-workshop) -  (4 weeks ago)
 - [Vokanesia/any-language](https://github.com/Vokanesia/any-language) - Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate. (2 months ago)
 - [GameFixxer/cms_staging](https://github.com/GameFixxer/cms_staging) - Staging area for cms learning (2 months ago)
 - [kokonior/PHP-Projects](https://github.com/kokonior/PHP-Projects) - Feel free to create new file, don&#39;t hesitate to pull your code, the most important thing is that the file name here must match your nickname so that file does not conflict with other people. (2 months ago)
 - [wesolowski/mvc](https://github.com/wesolowski/mvc) - Project for learning MVC&#39;s at Nexus United (2 months ago)
 - [nexusunited/bitbucket-pipline-php](https://github.com/nexusunited/bitbucket-pipline-php) -  (4 months ago)
-- [football-betting/frontend](https://github.com/football-betting/frontend) -  (4 months ago)
-- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (4 months ago)
-- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (4 months ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (5 months ago)
+- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (5 months ago)
+- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (5 months ago)
 
 ---
 
