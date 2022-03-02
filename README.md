@@ -25,7 +25,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 🔭 Latest releases I've contributed to
 
-- [nexusunited/symfony-tdd-example](https://github.com/nexusunited/symfony-tdd-example) ([1.6](https://github.com/nexusunited/symfony-tdd-example/releases/tag/1.6), 10 months ago) - 
+- [nexusunited/symfony-tdd-example](https://github.com/nexusunited/symfony-tdd-example) ([1.6](https://github.com/nexusunited/symfony-tdd-example/releases/tag/1.6), 11 months ago) - 
 
 ---
 
