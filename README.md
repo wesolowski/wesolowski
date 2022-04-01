@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [nevercodealone/waterpolo](https://github.com/nevercodealone/waterpolo) - Symfony 5, API News collector with Google Vision Image filter (1 day ago)
+- [nevercodealone/waterpolo](https://github.com/nevercodealone/waterpolo) - Symfony 5, API News collector with Google Vision Image filter (2 days ago)
 - [wesolowski/symfony-refactoring-workshop](https://github.com/wesolowski/symfony-refactoring-workshop) -  (4 months ago)
 - [wesolowski/symfony-infection](https://github.com/wesolowski/symfony-infection) -  (4 months ago)
 - [Vokanesia/any-language](https://github.com/Vokanesia/any-language) - Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate. (5 months ago)
@@ -25,7 +25,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 🔭 Latest releases I've contributed to
 
-- [nexusunited/symfony-tdd-example](https://github.com/nexusunited/symfony-tdd-example) ([1.6](https://github.com/nexusunited/symfony-tdd-example/releases/tag/1.6), 11 months ago) - 
+- [nexusunited/symfony-tdd-example](https://github.com/nexusunited/symfony-tdd-example) ([1.6](https://github.com/nexusunited/symfony-tdd-example/releases/tag/1.6), 1 year ago) - 
 
 ---
 
