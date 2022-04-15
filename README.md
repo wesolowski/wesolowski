@@ -17,7 +17,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [Vokanesia/any-language](https://github.com/Vokanesia/any-language) - Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate. (6 months ago)
 - [GameFixxer/cms_staging](https://github.com/GameFixxer/cms_staging) - Staging area for cms learning (6 months ago)
 - [wesolowski/mvc](https://github.com/wesolowski/mvc) - Project for learning MVC&#39;s at Nexus United (6 months ago)
-- [nexusunited/bitbucket-pipline-php](https://github.com/nexusunited/bitbucket-pipline-php) -  (8 months ago)
+- [nexusunited/bitbucket-pipline-php](https://github.com/nexusunited/bitbucket-pipline-php) -  (9 months ago)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (9 months ago)
 - [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (9 months ago)
 
