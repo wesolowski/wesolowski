@@ -30,6 +30,8 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### ⚡ My Talks & Workshops
 
+- [PHPUnit](https://nevercodealone.de/de/nca-events/php-testing-refactoring-conference) - NCA PHP Testing und Refactoring Duisburg (30.03.2022)
+- [Performance Analyse und Steigerung](https://nevercodealone.de/de/nca-events/php-testing-refactoring-conference) - NCA PHP Testing und Refactoring Duisburg (29.03.2022)
 - [Infection - Mutation Testing](https://nevercodealone.de/de/nca-conference-duisburg) - NCA Conference Duisburg (17.11.2021)
 - [Refactoring: Wie man es richtig macht](https://talk.bits.ruhr/event/16/schedule/18/34) - PHP.RUHR (11.11.2021)
 - [Infection - Mutation Testing](https://talk.bits.ruhr/event/16/schedule/18/34) - PHP.RUHR (11.11.2021)
