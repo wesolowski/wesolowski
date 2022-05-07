@@ -23,11 +23,6 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 ---
 
-#### 🔭 Latest releases I've contributed to
-
-
----
-
 #### ⚡ My Talks & Workshops
 
 - [Infection - Mutation Testing](https://phpconference.com/berlin-en/) - International PHP Conference Berlin (01.06.2022) 
