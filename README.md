@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [wesolowski/api-fussball](https://github.com/wesolowski/api-fussball) -  (3 days ago)
+- [wesolowski/api-fussball](https://github.com/wesolowski/api-fussball) -  (4 days ago)
 - [nevercodealone/waterpolo](https://github.com/nevercodealone/waterpolo) - Symfony 5, API News collector with Google Vision Image filter (1 month ago)
 - [wesolowski/symfony-refactoring-workshop](https://github.com/wesolowski/symfony-refactoring-workshop) -  (5 months ago)
 - [wesolowski/symfony-infection](https://github.com/wesolowski/symfony-infection) -  (5 months ago)
