@@ -12,7 +12,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 - [GameFixxer/cms_staging](https://github.com/GameFixxer/cms_staging) - Staging area for cms learning (2 weeks ago)
 - [wesolowski/api-fussball](https://github.com/wesolowski/api-fussball) -  (4 months ago)
-- [nevercodealone/waterpolo](https://github.com/nevercodealone/waterpolo) - Symfony 5, API News collector with Google Vision Image filter (6 months ago)
+- [nevercodealone/waterpolo](https://github.com/nevercodealone/waterpolo) - Symfony 5, API News collector with Google Vision Image filter (7 months ago)
 - [wesolowski/symfony-infection](https://github.com/wesolowski/symfony-infection) -  (11 months ago)
 - [wesolowski/symfony-refactoring-workshop](https://github.com/wesolowski/symfony-refactoring-workshop) -  (11 months ago)
 
