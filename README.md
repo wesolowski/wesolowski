@@ -10,6 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
+- [football-betting/server](https://github.com/football-betting/server) -  (today)
 - [GameFixxer/cms_staging](https://github.com/GameFixxer/cms_staging) - Staging area for cms learning (1 month ago)
 - [wesolowski/api-fussball](https://github.com/wesolowski/api-fussball) -  (5 months ago)
 - [nevercodealone/waterpolo](https://github.com/nevercodealone/waterpolo) - Symfony 5, API News collector with Google Vision Image filter (7 months ago)
