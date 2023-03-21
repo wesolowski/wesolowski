@@ -10,14 +10,14 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (today)
+- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (1 day ago)
 - [wesolowski/spryker-b2c](https://github.com/wesolowski/spryker-b2c) -  (3 weeks ago)
 - [api-fussball/api](https://github.com/api-fussball/api) -  (1 month ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (1 month ago)
-- [football-betting/frontend](https://github.com/football-betting/frontend) -  (3 months ago)
-- [football-betting/match](https://github.com/football-betting/match) -  (3 months ago)
-- [football-betting/tips](https://github.com/football-betting/tips) -  (3 months ago)
-- [football-betting/match-api](https://github.com/football-betting/match-api) -  (3 months ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (4 months ago)
+- [football-betting/match](https://github.com/football-betting/match) -  (4 months ago)
+- [football-betting/tips](https://github.com/football-betting/tips) -  (4 months ago)
+- [football-betting/match-api](https://github.com/football-betting/match-api) -  (4 months ago)
 - [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (4 months ago)
 - [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (4 months ago)
 
