@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (1 day ago)
+- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (2 days ago)
 - [wesolowski/spryker-b2c](https://github.com/wesolowski/spryker-b2c) -  (3 weeks ago)
 - [api-fussball/api](https://github.com/api-fussball/api) -  (1 month ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (1 month ago)
