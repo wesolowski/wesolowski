@@ -12,8 +12,8 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 - [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (2 weeks ago)
 - [wesolowski/spryker-b2c](https://github.com/wesolowski/spryker-b2c) -  (1 month ago)
-- [api-fussball/api](https://github.com/api-fussball/api) -  (2 months ago)
-- [api-fussball/docs](https://github.com/api-fussball/docs) -  (2 months ago)
+- [api-fussball/api](https://github.com/api-fussball/api) -  (3 months ago)
+- [api-fussball/docs](https://github.com/api-fussball/docs) -  (3 months ago)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (5 months ago)
 - [football-betting/match](https://github.com/football-betting/match) -  (5 months ago)
 - [football-betting/tips](https://github.com/football-betting/tips) -  (5 months ago)
