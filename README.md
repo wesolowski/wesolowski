@@ -10,8 +10,9 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (2 days ago)
+- [nexusunited/typesense-showcase](https://github.com/nexusunited/typesense-showcase) -  (today)
 - [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (2 days ago)
+- [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (2 days ago)
 - [wesolowski/spryker-b2c](https://github.com/wesolowski/spryker-b2c) -  (2 months ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (3 months ago)
 - [api-fussball/api](https://github.com/api-fussball/api) -  (3 months ago)
@@ -19,7 +20,6 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [football-betting/match](https://github.com/football-betting/match) -  (5 months ago)
 - [football-betting/match-api](https://github.com/football-betting/match-api) -  (5 months ago)
 - [football-betting/tips](https://github.com/football-betting/tips) -  (5 months ago)
-- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (5 months ago)
 
 ---
 
