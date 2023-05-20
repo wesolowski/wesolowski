@@ -10,16 +10,16 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (3 days ago)
+- [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (4 days ago)
 - [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (1 week ago)
 - [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (1 week ago)
-- [nexusunited/typesense-showcase](https://github.com/nexusunited/typesense-showcase) -  (1 week ago)
+- [nexusunited/typesense-showcase](https://github.com/nexusunited/typesense-showcase) -  (2 weeks ago)
 - [wesolowski/spryker-b2c](https://github.com/wesolowski/spryker-b2c) -  (2 months ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (3 months ago)
 - [api-fussball/api](https://github.com/api-fussball/api) -  (3 months ago)
-- [football-betting/frontend](https://github.com/football-betting/frontend) -  (5 months ago)
-- [football-betting/match](https://github.com/football-betting/match) -  (5 months ago)
-- [football-betting/match-api](https://github.com/football-betting/match-api) -  (5 months ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (6 months ago)
+- [football-betting/match](https://github.com/football-betting/match) -  (6 months ago)
+- [football-betting/match-api](https://github.com/football-betting/match-api) -  (6 months ago)
 
 ---
 
