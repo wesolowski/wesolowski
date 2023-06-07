@@ -11,8 +11,8 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 #### 👷 Check out what I'm currently working on
 
 - [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (3 weeks ago)
-- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (4 weeks ago)
-- [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (4 weeks ago)
+- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (1 month ago)
+- [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (1 month ago)
 - [nexusunited/typesense-showcase](https://github.com/nexusunited/typesense-showcase) -  (1 month ago)
 - [wesolowski/spryker-b2c](https://github.com/wesolowski/spryker-b2c) -  (3 months ago)
 - [api-fussball/api](https://github.com/api-fussball/api) -  (4 months ago)
