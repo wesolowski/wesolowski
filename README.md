@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (4 days ago)
+- [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (5 days ago)
 - [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (2 months ago)
 - [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (2 months ago)
 - [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (2 months ago)
