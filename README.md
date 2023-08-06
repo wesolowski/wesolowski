@@ -10,12 +10,12 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (3 days ago)
-- [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (5 days ago)
-- [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (5 days ago)
+- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (4 days ago)
+- [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (6 days ago)
+- [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (6 days ago)
 - [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (2 months ago)
-- [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (2 months ago)
-- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (2 months ago)
+- [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (3 months ago)
+- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (3 months ago)
 - [nexusunited/typesense-showcase](https://github.com/nexusunited/typesense-showcase) -  (3 months ago)
 - [wesolowski/spryker-b2c](https://github.com/wesolowski/spryker-b2c) -  (5 months ago)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (8 months ago)
