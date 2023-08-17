@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (2 days ago)
+- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (3 days ago)
 - [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (2 weeks ago)
 - [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (2 weeks ago)
 - [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (3 months ago)
