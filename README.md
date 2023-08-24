@@ -10,9 +10,9 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware-sdk/generate](https://github.com/shopware-sdk/generate) -  (today)
-- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 day ago)
-- [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (5 days ago)
+- [shopware-sdk/generate](https://github.com/shopware-sdk/generate) -  (1 day ago)
+- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (2 days ago)
+- [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (6 days ago)
 - [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (3 weeks ago)
 - [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (3 months ago)
 - [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (3 months ago)
