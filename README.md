@@ -11,7 +11,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 #### 👷 Check out what I'm currently working on
 
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (today)
-- [api-fussball/docs](https://github.com/api-fussball/docs) -  (1 day ago)
+- [api-fussball/docs](https://github.com/api-fussball/docs) -  (today)
 - [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (6 days ago)
 - [shopware-sdk/generate](https://github.com/shopware-sdk/generate) -  (1 week ago)
 - [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (1 week ago)
