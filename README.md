@@ -10,13 +10,13 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [sv-fuhlingen/homepage](https://github.com/sv-fuhlingen/homepage) -  (3 days ago)
-- [api-fussball/docs](https://github.com/api-fussball/docs) -  (4 days ago)
+- [sv-fuhlingen/homepage](https://github.com/sv-fuhlingen/homepage) -  (4 days ago)
+- [api-fussball/docs](https://github.com/api-fussball/docs) -  (5 days ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 week ago)
 - [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (2 weeks ago)
-- [shopware-sdk/generate](https://github.com/shopware-sdk/generate) -  (2 weeks ago)
+- [shopware-sdk/generate](https://github.com/shopware-sdk/generate) -  (3 weeks ago)
 - [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (3 weeks ago)
-- [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (3 months ago)
+- [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (4 months ago)
 - [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (4 months ago)
 - [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (4 months ago)
 - [nexusunited/typesense-showcase](https://github.com/nexusunited/typesense-showcase) -  (4 months ago)
