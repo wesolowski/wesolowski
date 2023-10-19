@@ -10,16 +10,16 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
+- [football-betting/match-api](https://github.com/football-betting/match-api) -  (today)
+- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (today)
+- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (today)
+- [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (today)
+- [football-betting/tips](https://github.com/football-betting/tips) -  (today)
+- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (today)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (today)
+- [football-betting/match](https://github.com/football-betting/match) -  (today)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (today)
 - [wesolowski/football_education_notifier](https://github.com/wesolowski/football_education_notifier) -  (3 weeks ago)
-- [sv-fuhlingen/homepage](https://github.com/sv-fuhlingen/homepage) -  (1 month ago)
-- [api-fussball/docs](https://github.com/api-fussball/docs) -  (1 month ago)
-- [shopware-sdk/generate](https://github.com/shopware-sdk/generate) -  (1 month ago)
-- [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (2 months ago)
-- [nexusunited/academy-docs-template-hugo](https://github.com/nexusunited/academy-docs-template-hugo) -  (5 months ago)
-- [shopware-sdk/sdk](https://github.com/shopware-sdk/sdk) -  (5 months ago)
-- [shopware-sdk/demo-middleware](https://github.com/shopware-sdk/demo-middleware) -  (5 months ago)
-- [nexusunited/typesense-showcase](https://github.com/nexusunited/typesense-showcase) -  (5 months ago)
 
 ---
 
