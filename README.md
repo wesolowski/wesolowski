@@ -10,16 +10,16 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [football-betting/server](https://github.com/football-betting/server) -  (today)
-- [football-betting/daily-winner](https://github.com/football-betting/daily-winner) -  (today)
-- [football-betting/documentation](https://github.com/football-betting/documentation) - microservice documentation (today)
-- [football-betting/rating-api](https://github.com/football-betting/rating-api) -  (today)
-- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (today)
-- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (today)
-- [football-betting/frontend](https://github.com/football-betting/frontend) -  (today)
-- [football-betting/match](https://github.com/football-betting/match) -  (today)
-- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (today)
-- [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (today)
+- [football-betting/server](https://github.com/football-betting/server) -  (1 day ago)
+- [football-betting/daily-winner](https://github.com/football-betting/daily-winner) -  (1 day ago)
+- [football-betting/documentation](https://github.com/football-betting/documentation) - microservice documentation (1 day ago)
+- [football-betting/rating-api](https://github.com/football-betting/rating-api) -  (1 day ago)
+- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (1 day ago)
+- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (1 day ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (1 day ago)
+- [football-betting/match](https://github.com/football-betting/match) -  (1 day ago)
+- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (1 day ago)
+- [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (1 day ago)
 
 ---
 
