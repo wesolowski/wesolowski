@@ -12,14 +12,14 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (1 week ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 week ago)
-- [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (1 week ago)
-- [football-betting/documentation](https://github.com/football-betting/documentation) - microservice documentation (1 week ago)
-- [football-betting/rating-api](https://github.com/football-betting/rating-api) -  (1 week ago)
-- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (1 week ago)
-- [football-betting/frontend](https://github.com/football-betting/frontend) -  (1 week ago)
-- [football-betting/match](https://github.com/football-betting/match) -  (1 week ago)
-- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (1 week ago)
-- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (1 week ago)
+- [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (2 weeks ago)
+- [football-betting/documentation](https://github.com/football-betting/documentation) - microservice documentation (2 weeks ago)
+- [football-betting/rating-api](https://github.com/football-betting/rating-api) -  (2 weeks ago)
+- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (2 weeks ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (2 weeks ago)
+- [football-betting/match](https://github.com/football-betting/match) -  (2 weeks ago)
+- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (2 weeks ago)
+- [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (2 weeks ago)
 
 ---
 
