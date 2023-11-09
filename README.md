@@ -13,11 +13,11 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [sv-fuhlingen/fussball](https://github.com/sv-fuhlingen/fussball) -  (today)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (2 weeks ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (2 weeks ago)
-- [football-betting/match](https://github.com/football-betting/match) -  (3 weeks ago)
+- [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (3 weeks ago)
 - [football-betting/rating-api](https://github.com/football-betting/rating-api) -  (3 weeks ago)
 - [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (3 weeks ago)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (3 weeks ago)
-- [football-betting/documentation](https://github.com/football-betting/documentation) - microservice documentation (3 weeks ago)
+- [football-betting/match](https://github.com/football-betting/match) -  (3 weeks ago)
 - [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (3 weeks ago)
 - [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (3 weeks ago)
 
