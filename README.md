@@ -19,12 +19,13 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [football-betting/server](https://github.com/football-betting/server) -  (3 months ago)
 - [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (3 months ago)
 - [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (3 months ago)
-- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (3 months ago)
+- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (3 months ago)
 
 ---
 
 #### ⚡ My Talks & Workshops
 
+- [X-MAS-Special-TDD & Mutation Testing](https://www.meetup.com/de-DE/sfugcgn/events/297280364/) - X-MAS-Special-TDD & Mutation Testing (14.12.2023)
 - [Infection - Mutation Testing](https://phpconference.com/berlin-en/) - International PHP Conference Berlin (01.06.2022) 
 - [PHPUnit](https://nevercodealone.de/de/nca-events/php-testing-refactoring-conference) - NCA PHP Testing und Refactoring Duisburg (30.03.2022) 
 - [Performance Analyse und Steigerung](https://nevercodealone.de/de/nca-events/php-testing-refactoring-conference) - NCA PHP Testing und Refactoring Duisburg (29.03.2022)
