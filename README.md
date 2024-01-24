@@ -19,7 +19,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [football-betting/server](https://github.com/football-betting/server) -  (3 months ago)
 - [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (3 months ago)
 - [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (3 months ago)
-- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (3 months ago)
+- [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (3 months ago)
 
 ---
 
