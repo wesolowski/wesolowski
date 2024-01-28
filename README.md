@@ -15,9 +15,9 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (3 months ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (3 months ago)
 - [football-betting/match-api](https://github.com/football-betting/match-api) -  (3 months ago)
-- [football-betting/daily-winner](https://github.com/football-betting/daily-winner) -  (3 months ago)
 - [football-betting/server](https://github.com/football-betting/server) -  (3 months ago)
 - [football-betting/ranking-list](https://github.com/football-betting/ranking-list) -  (3 months ago)
+- [football-betting/daily-winner](https://github.com/football-betting/daily-winner) -  (3 months ago)
 - [football-betting/calculation-list](https://github.com/football-betting/calculation-list) -  (3 months ago)
 - [football-betting/em2021-api](https://github.com/football-betting/em2021-api) - API for em2021-frontend  (3 months ago)
 
