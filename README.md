@@ -10,15 +10,15 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
+- [football-betting/em2024-api](https://github.com/football-betting/em2024-api) -  (today)
 - [sv-fuhlingen/fussball](https://github.com/sv-fuhlingen/fussball) -  (3 weeks ago)
 - [football-betting/em2024-macht](https://github.com/football-betting/em2024-macht) -  (3 weeks ago)
 - [valantic-CEC-Deutschland-GmbH/planning-poker-astro](https://github.com/valantic-CEC-Deutschland-GmbH/planning-poker-astro) - Astro, Bun Websocket (3 weeks ago)
-- [football-betting/em2024-api](https://github.com/football-betting/em2024-api) -  (1 month ago)
 - [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (1 month ago)
 - [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (8 months ago)
-- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (9 months ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (9 months ago)
-- [football-betting/match](https://github.com/football-betting/match) -  (9 months ago)
+- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (9 months ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (9 months ago)
 - [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (9 months ago)
 
 ---
