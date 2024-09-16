@@ -14,7 +14,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [football-betting/em2024-api](https://github.com/football-betting/em2024-api) -  (1 month ago)
 - [sv-fuhlingen/fussball](https://github.com/sv-fuhlingen/fussball) -  (2 months ago)
 - [football-betting/em2024-macht](https://github.com/football-betting/em2024-macht) -  (2 months ago)
-- [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (2 months ago)
+- [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (3 months ago)
 - [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (10 months ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (10 months ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (10 months ago)
