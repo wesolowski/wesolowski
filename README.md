@@ -18,8 +18,6 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [api-fussball/symfony-api](https://github.com/api-fussball/symfony-api) -  (11 months ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 year ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (1 year ago)
-- [football-betting/symfony4](https://github.com/football-betting/symfony4) - Betting games for soccer (1 year ago)
-- [football-betting/tips](https://github.com/football-betting/tips) -  (1 year ago)
 
 ---
 
