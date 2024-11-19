@@ -10,9 +10,9 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (3 days ago)
+- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (4 days ago)
 - [wesolowski/spotify-playlist-update](https://github.com/wesolowski/spotify-playlist-update) -  (1 month ago)
-- [football-betting/em2024-api](https://github.com/football-betting/em2024-api) -  (3 months ago)
+- [football-betting/em2024-api](https://github.com/football-betting/em2024-api) -  (4 months ago)
 - [sv-fuhlingen/fussball](https://github.com/sv-fuhlingen/fussball) -  (4 months ago)
 - [football-betting/em2024-macht](https://github.com/football-betting/em2024-macht) -  (4 months ago)
 - [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (5 months ago)
