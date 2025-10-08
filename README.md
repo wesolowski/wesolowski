@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (2 weeks ago)
+- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (3 weeks ago)
 - [wesolowski/spotify-playlist-update](https://github.com/wesolowski/spotify-playlist-update) -  (1 month ago)
 
 ---
