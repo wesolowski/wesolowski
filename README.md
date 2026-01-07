@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [api-fussball/docs](https://github.com/api-fussball/docs) -  (2 weeks ago)
+- [api-fussball/docs](https://github.com/api-fussball/docs) -  (3 weeks ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 month ago)
 - [api-fussball/.github](https://github.com/api-fussball/.github) -  (1 month ago)
 - [patrickjaja/workoflow-integration-platform](https://github.com/patrickjaja/workoflow-integration-platform) -  (2 months ago)
