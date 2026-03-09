@@ -15,7 +15,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [api-fussball/.github](https://github.com/api-fussball/.github) -  (3 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-integration-platform](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-integration-platform) -  (4 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-bot](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-bot) -  (4 months ago)
-- [valantic-CEC-Deutschland-GmbH/workoflow-rag](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-rag) -  (4 months ago)
+- [valantic-CEC-Deutschland-GmbH/workoflow-rag](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-rag) -  (5 months ago)
 - [wesolowski/spotify-playlist-update](https://github.com/wesolowski/spotify-playlist-update) -  (6 months ago)
 
 ---
