@@ -10,11 +10,11 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (1 week ago)
+- [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (2 weeks ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (3 months ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (4 months ago)
 - [api-fussball/.github](https://github.com/api-fussball/.github) -  (4 months ago)
-- [valantic-CEC-Deutschland-GmbH/workoflow-integration-platform](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-integration-platform) -  (4 months ago)
+- [valantic-CEC-Deutschland-GmbH/workoflow-integration-platform](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-integration-platform) -  (5 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-bot](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-bot) -  (5 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-rag](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-rag) -  (5 months ago)
 - [wesolowski/spotify-playlist-update](https://github.com/wesolowski/spotify-playlist-update) -  (6 months ago)
