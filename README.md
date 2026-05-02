@@ -17,7 +17,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [valantic-CEC-Deutschland-GmbH/workoflow-integration-platform](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-integration-platform) -  (6 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-bot](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-bot) -  (6 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-rag](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-rag) -  (6 months ago)
-- [wesolowski/spotify-playlist-update](https://github.com/wesolowski/spotify-playlist-update) -  (7 months ago)
+- [wesolowski/spotify-playlist-update](https://github.com/wesolowski/spotify-playlist-update) -  (8 months ago)
 
 ---
 
