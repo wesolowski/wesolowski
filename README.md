@@ -12,7 +12,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 month ago)
 - [api-fussball/.github](https://github.com/api-fussball/.github) -  (1 month ago)
-- [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (1 month ago)
+- [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (2 months ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (4 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-integration-platform](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-integration-platform) -  (6 months ago)
 - [valantic-CEC-Deutschland-GmbH/workoflow-bot](https://github.com/valantic-CEC-Deutschland-GmbH/workoflow-bot) -  (6 months ago)
