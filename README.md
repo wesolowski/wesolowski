@@ -10,8 +10,8 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (today)
-- [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (2 days ago)
+- [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (1 day ago)
+- [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (3 days ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 month ago)
 - [api-fussball/.github](https://github.com/api-fussball/.github) -  (1 month ago)
 - [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (2 months ago)
