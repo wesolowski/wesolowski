@@ -12,12 +12,12 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 - [football-betting/workspace](https://github.com/football-betting/workspace) -  (today)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (today)
-- [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (today)
-- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (today)
-- [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (3 days ago)
-- [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (5 days ago)
-- [api-fussball/.github](https://github.com/api-fussball/.github) -  (1 month ago)
-- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (1 month ago)
+- [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (1 day ago)
+- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (1 day ago)
+- [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (4 days ago)
+- [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (6 days ago)
+- [api-fussball/.github](https://github.com/api-fussball/.github) -  (2 months ago)
+- [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (2 months ago)
 - [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (2 months ago)
 - [api-fussball/docs](https://github.com/api-fussball/docs) -  (5 months ago)
 
