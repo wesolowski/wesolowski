@@ -10,12 +10,12 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (today)
-- [football-betting/frontend](https://github.com/football-betting/frontend) -  (today)
-- [football-betting/workspace](https://github.com/football-betting/workspace) -  (today)
-- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (today)
-- [wesolowski/team-poll-assistant](https://github.com/wesolowski/team-poll-assistant) -  (2 days ago)
-- [wesolowski/epic-presence-monitor](https://github.com/wesolowski/epic-presence-monitor) -  (2 days ago)
+- [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (1 day ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (1 day ago)
+- [football-betting/workspace](https://github.com/football-betting/workspace) -  (1 day ago)
+- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (1 day ago)
+- [wesolowski/team-poll-assistant](https://github.com/wesolowski/team-poll-assistant) -  (3 days ago)
+- [wesolowski/epic-presence-monitor](https://github.com/wesolowski/epic-presence-monitor) -  (3 days ago)
 - [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (1 week ago)
 - [football-betting/em2024-frontend](https://github.com/football-betting/em2024-frontend) -  (1 week ago)
 - [api-fussball/api-dart](https://github.com/api-fussball/api-dart) -  (2 months ago)
