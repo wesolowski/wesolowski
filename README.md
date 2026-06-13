@@ -10,10 +10,10 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [football-betting/frontend](https://github.com/football-betting/frontend) -  (1 day ago)
-- [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (3 days ago)
-- [football-betting/workspace](https://github.com/football-betting/workspace) -  (3 days ago)
-- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (3 days ago)
+- [football-betting/frontend](https://github.com/football-betting/frontend) -  (2 days ago)
+- [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (4 days ago)
+- [football-betting/workspace](https://github.com/football-betting/workspace) -  (4 days ago)
+- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (4 days ago)
 - [wesolowski/team-poll-assistant](https://github.com/wesolowski/team-poll-assistant) -  (1 week ago)
 - [wesolowski/epic-presence-monitor](https://github.com/wesolowski/epic-presence-monitor) -  (1 week ago)
 - [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (2 weeks ago)
