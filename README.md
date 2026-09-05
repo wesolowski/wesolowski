@@ -19,7 +19,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [wesolowski/nexround](https://github.com/wesolowski/nexround) -  (2 months ago)
 - [football-betting/workspace](https://github.com/football-betting/workspace) -  (2 months ago)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (2 months ago)
-- [wesolowski/team-poll-assistant](https://github.com/wesolowski/team-poll-assistant) -  (3 months ago)
+- [wesolowski/epic-presence-monitor](https://github.com/wesolowski/epic-presence-monitor) -  (3 months ago)
 
 ---
 
