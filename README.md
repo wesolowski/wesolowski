@@ -15,7 +15,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [wesolowski/rafalwesolowski.de](https://github.com/wesolowski/rafalwesolowski.de) -  (1 month ago)
 - [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (1 month ago)
 - [wesolowski/matchvoice](https://github.com/wesolowski/matchvoice) -  (2 months ago)
-- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (2 months ago)
+- [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (3 months ago)
 - [wesolowski/nexround](https://github.com/wesolowski/nexround) -  (3 months ago)
 - [football-betting/workspace](https://github.com/football-betting/workspace) -  (3 months ago)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (3 months ago)
