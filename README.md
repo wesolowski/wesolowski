@@ -11,8 +11,8 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 #### 👷 Check out what I'm currently working on
 
 - [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (1 month ago)
-- [wesolowski/fritz-netwatch](https://github.com/wesolowski/fritz-netwatch) -  (1 month ago)
-- [wesolowski/rafalwesolowski.de](https://github.com/wesolowski/rafalwesolowski.de) -  (1 month ago)
+- [wesolowski/fritz-netwatch](https://github.com/wesolowski/fritz-netwatch) -  (2 months ago)
+- [wesolowski/rafalwesolowski.de](https://github.com/wesolowski/rafalwesolowski.de) -  (2 months ago)
 - [football-betting/macht-api](https://github.com/football-betting/macht-api) -  (2 months ago)
 - [wesolowski/matchvoice](https://github.com/wesolowski/matchvoice) -  (2 months ago)
 - [football-betting/betting-api](https://github.com/football-betting/betting-api) -  (3 months ago)
