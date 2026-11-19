@@ -10,6 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
+- [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (today)
 - [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (2 months ago)
 - [wesolowski/fritz-netwatch](https://github.com/wesolowski/fritz-netwatch) -  (2 months ago)
 - [wesolowski/rafalwesolowski.de](https://github.com/wesolowski/rafalwesolowski.de) -  (2 months ago)
@@ -19,7 +20,6 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 - [wesolowski/nexround](https://github.com/wesolowski/nexround) -  (5 months ago)
 - [football-betting/workspace](https://github.com/football-betting/workspace) -  (5 months ago)
 - [football-betting/frontend](https://github.com/football-betting/frontend) -  (5 months ago)
-- [wesolowski/epic-presence-monitor](https://github.com/wesolowski/epic-presence-monitor) -  (5 months ago)
 
 ---
 
