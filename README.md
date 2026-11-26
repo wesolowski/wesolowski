@@ -10,7 +10,7 @@ My name is Rafał Wesołowski, I'm a developer evangelist at valantic CEC Deutsc
 
 #### 👷 Check out what I'm currently working on
 
-- [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (6 days ago)
+- [valantic-CEC-Deutschland-GmbH/md2docx](https://github.com/valantic-CEC-Deutschland-GmbH/md2docx) - Evaluierte Anforderung für Repository-BeschreibungConverts Markdown to Word (.docx) with valantic CI styles (1 week ago)
 - [wesolowski/radiofy](https://github.com/wesolowski/radiofy) -  (2 months ago)
 - [wesolowski/fritz-netwatch](https://github.com/wesolowski/fritz-netwatch) -  (2 months ago)
 - [wesolowski/rafalwesolowski.de](https://github.com/wesolowski/rafalwesolowski.de) -  (2 months ago)
